@@ -50,13 +50,13 @@ The graphical user interface is built on DirectX 11 and ImGui, prioritizing rend
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AmirGG11OP/Zero-Ai-Native/main/assets/ZeroSifter_UI-0.png" width="800">
+  <img src="https://raw.githubusercontent.com/Z-E-7-0-7-R-O/ZeroSifter/main/assets/ZeroSifter_UI-0.png" width="800">
   <br><br>
-  <img src="https://raw.githubusercontent.com/AmirGG11OP/Zero-Ai-Native/main/assets/ZeroSifter_UI-1.png" width="800">
+  <img src="https://raw.githubusercontent.com/Z-E-7-0-7-R-O/ZeroSifter/main/assets/ZeroSifter_UI-1.png" width="800">
   <p><i>ZeroSifter Operational Dashboard - Real-time vulnerability scanning via IOCP state-machine. Data displayed reflects test environment variables.</i></p>
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AmirGG11OP/Zero-Ai-Native/main/assets/Vulnerable_Hosts.png" width="800">
+  <img src="https://raw.githubusercontent.com/Z-E-7-0-7-R-O/ZeroSifter/main/assets/Vulnerable_Hosts.png" width="800">
   <p><i>Sample report detailing extracted vulnerabilities (Type, Port, Target) formatted by the UI components.</i></p>
 </div>
 
